@@ -1,1 +1,1 @@
-# AnadolununYildizlariParamNetPracticumOdev5
+# Anadolu'nun Yıldızları Param .Net Practicum Ödev 5
